@@ -1,6 +1,6 @@
 # Hi, I'm Trinity Egbukwu 👋
 
-**Software & Mobile App Developer** based in Nigeria. I build web products end to end with React, TypeScript, Node.js and PostgreSQL/MongoDB, and I'm building my React Native skills for mobile.
+**Full-stack and mobile developer** building e-commerce, payments and ticketing products with React, TypeScript, Node.js, PostgreSQL and MongoDB. Based in Nigeria (WAT, UTC+1), the same working day as the UK and most of Europe.
 
 I'm looking for a developer role in **fintech, e-commerce or software**.
 
