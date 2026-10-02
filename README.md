@@ -16,9 +16,10 @@ I'm looking for a developer role in **fintech, e-commerce or software**.
 ## Stack
 
 - **Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3
-- **Frontend:** React, React Native, Next.js, Vite, Tailwind CSS, shadcn/ui, MUI, React Hook Form, Zod, React Query, React Router
-- **Backend:** Node.js, Express, MongoDB, Mongoose, PostgreSQL, Prisma, Neon, Supabase, REST APIs, JWT, Google OAuth
-- **Tools:** Git/GitHub (branching, PR reviews), Vercel, Cloudinary, Brevo, Resend, Memcachier, Pino
+- **Frontend:** React, React Native, Expo, Next.js, Vite, Tailwind CSS, shadcn/ui, MUI, Framer Motion, React Hook Form, Zod, React Query, React Router, Axios, Recharts, Leaflet, Google Maps, TipTap, Embla Carousel
+- **Backend:** Node.js, Express, MongoDB, Mongoose, PostgreSQL, Prisma, Neon, Supabase, REST APIs, JWT, cookie sessions, bcrypt, Google OAuth
+- **Payments and email:** Paystack, Mailgun, Brevo, Resend
+- **Tools:** Git/GitHub (branching, PR reviews), Vercel (including cron jobs), Vitest, Cloudinary, Memcachier, Pino
 
 ## Right now
 
