@@ -11,7 +11,7 @@ I'm looking for a developer role in **fintech, e-commerce or software**.
 | **Eventra** | Event discovery and ticketing platform. I led a team of 10+ across frontend and backend (Jul to Sep 2026). | [eventra-client-delta.vercel.app](https://eventra-client-delta.vercel.app) | [Client](https://github.com/Chloetrini/Eventra-Client) · [API](https://github.com/Chloetrini/eventra-backend) |
 | **NestFinder Pro** | Real-estate listings platform for Nigeria, with a rate-limited, cached API. | [nestfinder-real-estate-ljlj.vercel.app](https://nestfinder-real-estate-ljlj.vercel.app) | [Client](https://github.com/Chloetrini/nestfinder-real-estate) · [API](https://github.com/Chloetrini/nestfinder-backend) |
 | **UDESport** | Football scouting and player placement academy site. Built solo for a client. | [udesportsmgt.com](https://udesportsmgt.com) | [Client](https://github.com/Chloetrini/udesports-client) · [API](https://github.com/Chloetrini/udesports-server) |
-| **Taskora** | Multi-user task manager where every account's data is isolated. Google sign-in, email verification, password reset, a trash with restore and an automated test suite. Built with Next.js 16 and MongoDB. | | [Code](https://github.com/Chloetrini/taskora) |
+| **Shopora** | Online shop with a website and a phone app (Expo) on one API and database. Paystack checkout, order confirmation emails, Google sign-in, order tracking and an admin area. | [shopora.website](https://www.shopora.website) | [Code](https://github.com/Chloetrini/Shopora) |
 
 ## Stack
 
