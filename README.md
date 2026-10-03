@@ -8,7 +8,7 @@
 
 React · React Native · TypeScript · Node.js · PostgreSQL · MongoDB · Paystack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/trinity-egbukwu-33707739a) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Chloetrini) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trinityegbukwu1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/trinity-egbukwu/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Chloetrini) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trinityegbukwu1@gmail.com)
 
 </div>
 
@@ -58,4 +58,4 @@ I'm looking for a developer role in **fintech, e-commerce or software**.
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/trinity-egbukwu-33707739a) · trinityegbukwu1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/trinity-egbukwu/) · trinityegbukwu1@gmail.com
