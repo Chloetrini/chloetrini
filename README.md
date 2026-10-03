@@ -6,7 +6,8 @@
 
 ### Full-stack and mobile software developer
 
-React · React Native · TypeScript · Node.js · PostgreSQL · MongoDB · Paystack
+React · React Native · TypeScript ·Next.js
+· Node.js · PostgreSQL · MongoDB 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/trinity-egbukwu/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Chloetrini) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trinityegbukwu1@gmail.com)
 
