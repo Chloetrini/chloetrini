@@ -1,4 +1,16 @@
-# Hi, I'm Trinity Egbukwu 👋
+<div align="center">
+
+<img src="https://github.com/Chloetrini.png" width="140" alt="Trinity Egbukwu" />
+
+# Trinity Egbukwu
+
+### Full-stack and mobile software developer
+
+React · React Native · TypeScript · Node.js · PostgreSQL · MongoDB · Paystack
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/trinity-egbukwu-33707739a) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Chloetrini) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trinityegbukwu1@gmail.com)
+
+</div>
 
 **Full-stack and mobile developer** building e-commerce, payments and ticketing products with React, TypeScript, Node.js, PostgreSQL and MongoDB. Based in Nigeria (WAT, UTC+1), the same working day as the UK and most of Europe.
 
