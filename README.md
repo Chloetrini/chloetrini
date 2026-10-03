@@ -54,5 +54,6 @@ I'm looking for a developer role in **fintech, e-commerce or software**.
 
 ## Right now
 
-- AI Engineering intern at HNG
+- AI Engineering intern at HNG: assistant team lead for my group, fixing bugs and building features in Zedu (a team chat platform similar to Slack), and learning Go
 - Completed the Full-Stack Developer internship at Techstudio Academy (certificate awarded)
+- Open to remote roles, with working hours that overlap the UK and Europe
