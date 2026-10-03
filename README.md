@@ -56,7 +56,3 @@ I'm looking for a developer role in **fintech, e-commerce or software**.
 
 - AI Engineering intern at HNG
 - Completed the Full-Stack Developer internship at Techstudio Academy (certificate awarded)
-
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/trinity-egbukwu/) · trinityegbukwu1@gmail.com
