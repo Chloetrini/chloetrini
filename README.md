@@ -15,7 +15,7 @@ React · React Native · TypeScript ·Next.js
 
 **Full-stack and mobile developer** building e-commerce, payments and ticketing products with React, TypeScript, Node.js, PostgreSQL and MongoDB. Based in Nigeria (WAT, UTC+1), the same working day as the UK and most of Europe.
 
-I'm looking for a developer role in **fintech, e-commerce or software**.
+
 
 ## What I've built
 
@@ -54,6 +54,6 @@ I'm looking for a developer role in **fintech, e-commerce or software**.
 
 ## Right now
 
-- AI Engineering intern at HNG: assistant team lead for my group, fixing bugs and building features in Zedu (a team chat platform similar to Slack), and learning Go
+- AI Engineering intern at HNG: assistant team lead for my group, fixing bugs and building features in Zedu
 - Completed the Full-Stack Developer internship at Techstudio Academy (certificate awarded)
 - Open to remote roles, with working hours that overlap the UK and Europe
