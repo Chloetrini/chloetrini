@@ -54,6 +54,5 @@ React · React Native · TypeScript ·Next.js
 
 ## Right now
 
-- AI Engineering intern at HNG: assistant team lead for my group, fixing bugs and building features in Zedu
 - Completed the Full-Stack Developer internship at Techstudio Academy (certificate awarded)
 - Open to remote roles, with working hours that overlap the UK and Europe
