@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Chloetrini.png" width="140" alt="Trinity Egbukwu" />
 
-# Trinity Egbukwu
+# Trinity Chloe Egbukwu
 
 ### Full-stack and mobile software developer
 
