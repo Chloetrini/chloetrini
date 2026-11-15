@@ -7,7 +7,7 @@
 ### Full-stack and mobile software developer
 
 React · React Native · TypeScript ·Next.js
-· Node.js · Pyton · PostgreSQL · MongoDB 
+· Node.js · Python · PostgreSQL · MongoDB 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/trinity-egbukwu/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Chloetrini) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trinityegbukwu1@gmail.com)
 
@@ -21,10 +21,11 @@ React · React Native · TypeScript ·Next.js
 
 | Project | What it is | Live | Code |
 |---|---|---|---|
-| **Eventra** | Event discovery and ticketing platform. I led a team of 10+ across frontend and backend (Jul to Sep 2026). | [eventra-client-delta.vercel.app](https://eventra-client-delta.vercel.app) | [Client](https://github.com/Chloetrini/Eventra-Client) · [API](https://github.com/Chloetrini/eventra-backend) |
+| **Eventra** | Event discovery and ticketing platform. I led a team of 10+ across frontend and backend. | [eventra-client-delta.vercel.app](https://eventra-client-delta.vercel.app) | [Client](https://github.com/Chloetrini/Eventra-Client) · [API](https://github.com/Chloetrini/eventra-backend) |
 | **NestFinder Pro** | Real-estate listings platform for Nigeria, with a rate-limited, cached API. | [nestfinder-real-estate-ljlj.vercel.app](https://nestfinder-real-estate-ljlj.vercel.app) | [Client](https://github.com/Chloetrini/nestfinder-real-estate) · [API](https://github.com/Chloetrini/nestfinder-backend) |
 | **UDESport** | Football scouting and player placement academy site. Built solo for a client. | [udesportsmgt.com](https://udesportsmgt.com) | [Client](https://github.com/Chloetrini/udesports-client) · [API](https://github.com/Chloetrini/udesports-server) |
-| **Shopora** | Online shop with a website and a phone app (Expo) on one API and database. Paystack checkout, order confirmation emails, Google sign-in, order tracking and an admin area. | [shopora.website](https://www.shopora.website) | [Code](https://github.com/Chloetrini/Shopora) |
+| **Ziki** | AI agent marketplace where people and AI agents build and ship products together. Built with the team at Emerj LLC. | [ziki.dev](https://ziki.dev) | n/a |
+| **Start.ng app** | Worked with a team on the product concept, design, frontend and backend, from idea to launch. | n/a | n/a |
 
 ## Tech stack
 
@@ -54,5 +55,6 @@ React · React Native · TypeScript ·Next.js
 
 ## Right now
 
-- Completed the Full-Stack Developer internship at Techstudio Academy (certificate awarded)
+- Product Engineer at HNG Tech (AI Engineering intern, assistant team lead, finalist), Start.ng and Emerj LLC (ziki.dev)
+- Completed the Full-Stack Engineer internship at Techstudio Academy (certificate awarded)
 - Open to remote roles, with working hours that overlap the UK and Europe
