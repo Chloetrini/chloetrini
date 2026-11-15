@@ -4,7 +4,7 @@
 
 # Trinity Chloe Egbukwu
 
-### Full-stack and mobile software developer
+### Software developer
 
 React · React Native · TypeScript ·Next.js
 · Node.js · Python · PostgreSQL · MongoDB 
@@ -13,7 +13,7 @@ React · React Native · TypeScript ·Next.js
 
 </div>
 
-**Full-stack and mobile developer** building e-commerce, payments and ticketing products with React, TypeScript, Node.js, PostgreSQL and MongoDB. Based in Nigeria (WAT, UTC+1), the same working day as the UK and most of Europe.
+**Software developer** building e-commerce, payments and ticketing products with React, TypeScript, Node.js, PostgreSQL and MongoDB. Based in Nigeria (WAT, UTC+1), the same working day as the UK and most of Europe.
 
 
 
